@@ -14,6 +14,6 @@ Prerequisites
 - Package manager: pnpm (recommended) or npm
 
 Installation
-pnpm install
-pnpm dev
-# open http://localhost:3000
+- pnpm install
+- pnpm dev
+//open http://localhost:3000
